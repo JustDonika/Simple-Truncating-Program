@@ -28,4 +28,4 @@ public class Shorten{
         //Done!
         System.out.println("File shortened");
     }
-}
+} 
